@@ -1,7 +1,6 @@
 .DS_Store
 .atom/
 .idea/
-.vscode/
 
 .packages
 .pub/
@@ -46,3 +45,7 @@ build/
 .classpath
 .settings
 .doc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
